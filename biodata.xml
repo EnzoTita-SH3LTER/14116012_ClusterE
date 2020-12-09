@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<dataDiri>
+    <nama>
+        <pertama>Nazel</pertama>
+        <kedua>Marfi</kedua>
+        <ketiga>Alfawwaz</ketiga>
+    </nama>
+    <gender>Pria</gender>
+    <hobi>
+        <kegiatan1>diskusi literasi</kegiatan1>
+        <kegiatan2>explore alam</kegiatan2>
+    </hobi>
+    <alamat>
+        <jalan>Jl Sahlan Polwanji</jalan>
+        <kecamatan>Purbolinggo</kecamatan>
+        <kota>Lampung Timur</kota>
+    </alamat>
+    <socialMedia>
+        <line>nazelmarfi28</line>
+        <instagram>nazelmarfi28</instagram>
+    </socialMedia>
+</dataDiri>

@@ -1,0 +1,23 @@
+{
+    "dataDiri": {
+      "nama": {
+        "pertama": "Nazel",
+        "kedua": "Marfi",
+        "ketiga": "Alfawwaz"
+      },
+      "gender": "Laki-laki",
+      "hobi": {
+        "kegiatan1": "diskusi literasi",
+        "kegiatan2": "explore alam"
+      },
+      "alamat": {
+        "jalan": "Jl Sahlan Polwanji",
+        "kecamatan": "Purbolinggo",
+        "kota": "Lampung Timur"
+      },
+      "socialMedia": {
+        "line": "nazelmarfi28",
+        "instagram": "nazelmarfi28"
+      }
+    }
+  }
